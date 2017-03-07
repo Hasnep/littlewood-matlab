@@ -8,8 +8,12 @@ Monic polynomials have the first coefficient as 1.
 
 This script plots the roots of every N-th degree monic Littlewood polynomial on the complex plane.
 
-# Example
-![image](http://i.imgur.com/BIznXyE.png)
+# Examples
+![image1](http://i.imgur.com/XPYNgSP.png)
 Example of the density of the roots of every 20th degree monic Littlewood polynomial
 
-Link to image: http://i.imgur.com/BIznXyE.png
+![image2](http://i.imgur.com/mruZ80u.png)
+Zoomed in version of the first image
+
+![image3](http://i.imgur.com/6aGwMdP.png)
+Density of the roots of 18th degree monic polynomials with coefficients of 0 and 1
