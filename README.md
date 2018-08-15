@@ -1,19 +1,29 @@
 # Littlewood
-Plotting roots of monic Littlewood polynomials (and monic polynomials with coefficients of 1 and other numbers)
+Plotting roots of monic Littlewood polynomials (and monic polynomials with coefficients of 1 and other numbers).
 
-# Explanation
+## Explanation
 Littlewood polynomials are polynomials with coefficients of either 1 or -1.
-
 Monic polynomials have the first coefficient as 1.
-
 This script plots the roots of every N-th degree monic Littlewood polynomial on the complex plane.
 
-# Examples
-![image1](http://i.imgur.com/XPYNgSP.png)
-Example of the density of the roots of every 20th degree monic Littlewood polynomial
+## Examples
+![An example of the density of the roots of every 20th degree monic Littlewood polynomial.](https://hasnep.github.io/images/littlewood/basic.png)
+An example of the density of the roots of every 20th degree monic Littlewood polynomial.
 
-![image2](http://i.imgur.com/mruZ80u.png)
-Zoomed in version of the first image
+![A high resolution render of the same image.](https://hasnep.github.io/images/littlewood/4krender.png)
+A high resolution render of the same image.
 
-![image3](http://i.imgur.com/6aGwMdP.png)
-Density of the roots of 18th degree monic polynomials with coefficients of 0 and 1
+![Zooming in on a section.](https://hasnep.github.io/images/littlewood/4krenderzoomed.png)
+Zooming in on a section.
+
+![A 1920x1080 desktop background image.](https://hasnep.github.io/images/littlewood/desktopbg.png)
+A 1920x1080 desktop background image.
+
+![A rotated version of the same image for phone wallpapers.](https://hasnep.github.io/images/littlewood/phonebg.png)
+A rotated version of the same image for phone wallpapers.
+
+[![An animation of changing a parameter from -1 to 1.](https://hasnep.github.io/images/littlewood/animated.gif)](https://hasnep.github.io/images/littlewood/animated.webm)
+An animation of changing a parameter from -1 to 1.
+
+## Code
+Code is on [Github](https://github.com/Hasnep/littlewood).
