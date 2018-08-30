@@ -33,7 +33,3 @@ A rotated version of the same image for phone wallpapers.
 [![An animation of changing a parameter from -1 to 1.](https://hasnep.github.io/images/littlewood/animated.gif)](https://hasnep.github.io/images/littlewood/animated.webm)
 
 An animation of changing a parameter from -1 to 1.
-
-## Code
-
-Code is on [Github](https://github.com/Hasnep/littlewood).
