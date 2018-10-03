@@ -34,6 +34,6 @@ A 1920x1080 desktop background image.
 
 A rotated version of the same image for phone wallpapers.
 
-[![An animation of changing a parameter from -1 to 1.](https://hasnep.github.io/images/littlewood/animated.gif)](https://hasnep.github.io/images/littlewood/animated.webm)
+![An animation of changing a parameter from -1 to 1.](https://hasnep.github.io/images/littlewood/animated.gif)
 
-An animation of changing a parameter from -1 to 1.
+An animation of changing a parameter from -1 to 1. (Full video [here](https://hasnep.github.io/images/littlewood/animated.webm))
