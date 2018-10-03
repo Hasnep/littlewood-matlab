@@ -8,6 +8,10 @@ Littlewood polynomials are polynomials with coefficients of either 1 or -1.
 Monic polynomials have the first coefficient as 1.
 This script plots the roots of every N-th degree monic Littlewood polynomial on the complex plane.
 
+## Usage
+
+The two main functions are `find_roots(polynomial_order, other_no)` and `render(image_name, points, plot_centre, plot_scale, image_size)` where the `points` argument is the output of the first function.
+
 ## Examples
 
 ![An example of the density of the roots of every 20th degree monic Littlewood polynomial.](https://hasnep.github.io/images/littlewood/basic.png)
