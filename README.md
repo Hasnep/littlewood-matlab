@@ -14,26 +14,26 @@ The two main functions are `find_roots(polynomial_order, other_no)` and `render(
 
 ## Examples
 
-![An example of the density of the roots of every 20th degree monic Littlewood polynomial.](https://hasnep.github.io/images/littlewood/basic.png)
+![An example of the density of the roots of every 20th degree monic Littlewood polynomial.](https://ha.nnes.dev/image/littlewood/basic.png)
 
 An example of the density of the roots of every 20th degree monic Littlewood polynomial.
 
-![A high resolution render of the same image.](https://hasnep.github.io/images/littlewood/4krender.png)
+![A high resolution render of the same image.](https://ha.nnes.dev/image/littlewood/4krender.png)
 
 A high resolution render of the same image.
 
-![Zooming in on a section.](https://hasnep.github.io/images/littlewood/4krenderzoomed.png)
+![Zooming in on a section.](https://ha.nnes.dev/image/littlewood/4krenderzoomed.png)
 
 Zooming in on a section.
 
-![A 1920x1080 desktop background image.](https://hasnep.github.io/images/littlewood/desktopbg.png)
+![A 1920x1080 desktop background image.](https://ha.nnes.dev/image/littlewood/desktopbg.png)
 
 A 1920x1080 desktop background image.
 
-![A rotated version of the same image for phone wallpapers.](https://hasnep.github.io/images/littlewood/phonebg.png)
+![A rotated version of the same image for phone wallpapers.](https://ha.nnes.dev/image/littlewood/phonebg.png)
 
 A rotated version of the same image for phone wallpapers.
 
-![An animation of changing a parameter from -1 to 1.](https://hasnep.github.io/images/littlewood/animated.gif)
+![An animation of changing a parameter from -1 to 1.](https://ha.nnes.dev/image/littlewood/animated.gif)
 
-An animation of changing a parameter from -1 to 1. (Full video [here](https://hasnep.github.io/images/littlewood/animated.webm))
+An animation of changing a parameter from -1 to 1. (Full video [here](https://ha.nnes.dev/image/littlewood/animated.webm))
